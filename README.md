@@ -1,2 +1,1 @@
-# SolarSystem
-SolarSystem
+manchincreditymabcfyinformation.cc$$
