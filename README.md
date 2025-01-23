@@ -1,8 +1,5 @@
-manchincreditymabcfyinformation.cc$$jsadfasdfkaskfasdfjkjksdafjkasfkf<p style="color: red;">这段文字是红色的。</p>
-
-（daf）[[lian](https://www.baidu.com)]
+manchincreditymabcfyinformation.cc$$jsadfasdfkaskfasdfjkjksdafjkasfkf
 <font color=#00ff77>  color #0fff77  </font>
-
 ```
 fafsadfasdfsdfdsaffdsafsdafasdsad
 ```
